@@ -1,4 +1,3 @@
-这些代码用对K-NET台站记录的波形数据进行数据采集和处理，进而建立本研究的数据集。
 These codes are used for acquisition and preprocessing of waveform data recorded by K-NET stations, in order to establish the dataset for this study.
 The waveform data of K-NET network can be downloaded from this website：https://www.kyoshin.bosai.go.jp/kyoshin/quake/index_en.html
 Meanwhile, the dataset established in this study has been uploaded to IEEE Dataport. Here is the link to IEEE Dataport:
