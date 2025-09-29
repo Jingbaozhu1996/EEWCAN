@@ -1,0 +1,7 @@
+Due to the large memory size of waveform data and limitations in data transmission, 
+we uploaded the waveform dataset to IEEE Dataport. The datasets used for training and testing EEWCAN model 
+and baseline models(CNN-Dis、CRNN-Dis、CNN-Mag、LSTM-Mag、MEANet-Mag、MagNet、EqViT), 
+as well as Chinese strong-ground motion test dataset, can be downloaded from IEEE Dataport. Here is the link to IEEE Dataport:
+https://ieee-dataport.org/documents/dataset-training-and-testing-eewcan。
+If the Dataset help your research, please kindly cite:
+Jingbao Zhu, Jindong Song, Shanyou Li (2025). Dataset for training and testing EEWCAN. IEEE Dataport. https://dx.doi.org/10.21227/wr8h-ts82.
