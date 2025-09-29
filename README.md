@@ -2,6 +2,8 @@
 
 # Collaborative Attention Network for Rapid Epicentral Distance and Magnitude Estimation
 Jingbao Zhu, Shanyou Li, Qiang Ma, Kunpeng Yao, Pengjie Huang, and Jindong Song
+![Uploading image.png…]()
+
 
 # Data
 Due to the large memory size of waveform data and limitations in data transmission, 
