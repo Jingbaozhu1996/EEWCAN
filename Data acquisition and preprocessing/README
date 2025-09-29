@@ -1,3 +1,7 @@
 这些代码用对K-NET台站记录的波形数据进行数据采集和处理，进而建立本研究的数据集。
-K-NET台网的波形数据可以从该网站上进行下载：https://www.kyoshin.bosai.go.jp/kyoshin/quake/index_en.html
-同时，本研究建立的数据集已经上传至
+These codes are used for acquisition and preprocessing of waveform data recorded by K-NET stations, in order to establish the dataset for this study.
+The waveform data of K-NET network can be downloaded from this website：https://www.kyoshin.bosai.go.jp/kyoshin/quake/index_en.html
+Meanwhile, the dataset established in this study has been uploaded to IEEE Dataport. Here is the link to IEEE Dataport:
+https://ieee-dataport.org/documents/dataset-training-and-testing-eewcan.
+If the Dataset help your research, please kindly cite:
+Jingbao Zhu, Jindong Song, Shanyou Li (2025). Dataset for training and testing EEWCAN. IEEE Dataport. https://dx.doi.org/10.21227/wr8h-ts82.
